@@ -1,6 +1,6 @@
 # Mission, Vision, and Modus Operandi
 
-# #Mission
+# Mission
 
 The mission of the Data Scientista Society is to educate women pursuing careers related to data science in techniques and competencies needed for career advancement and achieving leadership positions in the field.
 
