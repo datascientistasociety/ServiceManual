@@ -29,16 +29,16 @@ Expenses will be paid, prioritized by Inventory.md
 
 6 3-hr meetings at Rebusworks | $900 
 No charge expected for meetings at Momentume Learn | $0
-Meetup.com |$200
-Website |$200
-Margin| $200
+Meetup.com | $200
+Website | $200
+Margin | $200
 
 ## Tickets Pay for Program Events
 Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. [See Try 1] (../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
 
-[Try 3] (./ProgramsHandbook/ProgramsOverview.md)
-[Try 4] (./ServiceManual/ProgramsHandbook/ProgramsOverview)
-[Try 5] (./ProgramsHandbook/ProgramsOverview)
+[Try 3](ProgramsHandbook/ProgramsOverview.md)
+[Try 4](ServiceManual/ProgramsHandbook/ProgramsOverview)
+[Try 5](ProgramsHandbook/ProgramsOverview)
 
 We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for authenticated members, and one for general. 
 
