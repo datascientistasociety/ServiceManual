@@ -18,7 +18,7 @@ Registrants are asked to declared whether they will be AUTHENTICATED members or 
 Meetup charges a processing fee according to a schedule. 
 This private meetup group is configured so that transactions are exposed.
 
-## Napkin Expected Income
+### Napkin Expected Income
 We believe we have 300 members. At the current engagement standard, we aim for 30 authenticated members.
 30 members * $50 = $1500 
 
@@ -26,13 +26,13 @@ We do not know how much in contributions we will receive.
 
 ### Napkin Budget
 Expenses will be paid, prioritized by Inventory.md
-| 6 3-hr meetings at Rebusworks | $900 |
-| No charge expected for meetings at Momentume Learn | $0 |
-|Meetup.com |$200|
-|Website |$200|
-|Margin| $200|
+6 3-hr meetings at Rebusworks | $900 
+No charge expected for meetings at Momentume Learn | $0
+Meetup.com |$200
+Website |$200
+Margin| $200
 
-### Tickets Pay for Program Events
+## Tickets Pay for Program Events
 Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. [See Try 1] (../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
 
 [Try 3] (./ProgramsHandbook/ProgramsOverview.md)
