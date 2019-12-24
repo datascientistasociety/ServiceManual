@@ -34,8 +34,8 @@ We do not know how much in contributions we will receive.
 Expenses will be paid, prioritized by the listing at [Inventory](Inventory.md)
 
 | Expense | Amount |
-|-------------------------------|-----|
-| 6x 3-hr meetings at Rebusworks | $900 |
+|----------------------------------------|----:|
+| 6x 3-hr meetings at Rebusworks @$50/hr | $900 |
 | Meetings at Momentume Learn | $0 |
 | Meetup.com | $200 |
 | Website | $200 |
