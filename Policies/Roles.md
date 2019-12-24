@@ -1,5 +1,10 @@
 #Roles#
 
+All roles 
+put activity in the logs
+maintain a documentation page
+
+
 ##The President is reponsible for the open organization## [ANNA]
 * Represents the Society to other groups and stakeholders 
 * Ultimately manages the relationships with the platforms

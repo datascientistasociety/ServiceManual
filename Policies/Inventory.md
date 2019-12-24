@@ -4,14 +4,18 @@
 * Momentum Learning
 * Rebus Works
 
-##Platforms##
-* Meetup.com
+##Bank##
+* Fidelity Bank
+
+##Platforms/Apps##
+* Meetup.com ($200 per year)
 * LinkedIn groups
 * GitHub
 * Google Survey for the attendance survey
 * Other survey tools
 * Website
 * Gmail box
+* Wave
 
 ##Data Sets##
 * Member list (blended from Meetup and LinkedIn )
