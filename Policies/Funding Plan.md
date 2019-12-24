@@ -38,7 +38,7 @@ Occasionally there are ticketed events. A nominal fee helps plan for attendance,
 
 [Try 3] (../ProgramsHandbook/ProgramsOverview.md)
 [Try 4] (../ServiceManual/ProgramsHandbook/ProgramsOverview)
-[Try 5] (ProgramsHandbook/ProgramsOverview.md)
+[Try 5] (/ProgramsHandbook/ProgramsOverview.md)
 
 We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for authenticated members, and one for general. 
 
