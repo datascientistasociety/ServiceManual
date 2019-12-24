@@ -26,6 +26,7 @@ We do not know how much in contributions we will receive.
 
 ### Napkin Budget
 Expenses will be paid, prioritized by Inventory.md
+
 6 3-hr meetings at Rebusworks | $900 
 No charge expected for meetings at Momentume Learn | $0
 Meetup.com |$200
