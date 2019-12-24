@@ -1,18 +1,19 @@
 # Service Manual
 
-Read about our [Mission, Vision, and Modus Operandi](missionvision.md)
+## Read about our [Mission, Vision, and Modus Operandi](missionvision.md)
 
-Programs Handbook [Overview](ProgramsHandbook/ProgramsOverview.md)
+## Programs Handbook [Overview](ProgramsHandbook/ProgramsOverview.md)
 * [Classes](ProgramsHandbook/Calendar.md)
 * [Literature Review](ProgramsHandbook/LiteratureReview.md)
 * [Referrals](ProgramsHandbook/Referrals.md)
 * [Speaker Events](ProgramsHandbook/SpeakerEvents.md)
-Policies
+
+## Policies
 * [Calendar](Policies/Calendar.md)
 * [Funding Plan](Policies/FundingPlan.md)
 * [Inventory](Policies/Inventory.md)
 * [Roles](Policies/Roles.md)
 
-Values [Overview](ValuesOverview.md)
+## Values [Overview](ValuesOverview.md)
 
-Bylaws
+## Bylaws
