@@ -2,10 +2,10 @@
 
 The programs to achieve this mission include:
 
-* speaker events
-* classes
-* literature review sessions, and
-* referrals for wider opportunity
+* Speaker events
+* Classes
+* Literature review sessions, and
+* Referrals for wider opportunity
 
 Colloquially, we call these fairs, classes, book club, and Quick List, respectively.
 

@@ -8,18 +8,18 @@
 * Fidelity Bank
 
 ## Platforms/Apps
-* Meetup.com ($200 per year)
-* LinkedIn groups
-* GitHub
+* Meetup.com ($200 per year) <https://www.meetup.com/DataScientistaSociety/> and <https://www.meetup.com/DataScientistaSocietyFunders/>
+* LinkedIn groups: Data Scientista Society followers <https://www.linkedin.com/groups/8496042/>
+* GitHub <https://github.com/datascientistasociety>
 * Google Survey for the attendance survey
 * Other survey tools
-* Website
-* Gmail box
+* Website <http://www.datascientistasociety.org>
+* Gmail box datascientistasociety@gmail.com
 * Wave
 
 ## Data Sets
 * Member list (blended from Meetup and LinkedIn )
-* Attendance urvey (provided through )
+* Attendance survey (provided through )
 * Book club survey
 * Classes survey
 * Ledger
