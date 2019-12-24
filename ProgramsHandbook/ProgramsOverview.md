@@ -1,4 +1,4 @@
-##Programs##
+## Programs
 
 The programs to achieve this mission include:
 
@@ -9,7 +9,7 @@ The programs to achieve this mission include:
 
 Colloquially, we call these fairs, classes, book club, and Quick List, respectively.
 
-Program Expenses
+### Program Expenses
 
 * Event Space Rental
 * Refreshment expenses

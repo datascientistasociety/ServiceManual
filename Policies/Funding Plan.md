@@ -34,14 +34,8 @@ Website | $200
 Margin | $200
 
 ## Tickets Pay for Program Events
-Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. [See Try 1] (../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
+Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. [See ProgramsOverview](../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
 
-
-[Try 4](./ServiceManual/ProgramsHandbook/ProgramsOverview.md)
-[Try 5](../ServiceManual/ProgramsHandbook/ProgramsOverview.md)
-[Try 6](./ProgramsHandbook/ProgramsOverview.md)
-[Try 7](../ProgramsHandbook/ProgramsOverview.md)
-[Try 8](Calendar.md)
 
 We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for authenticated members, and one for general. 
 

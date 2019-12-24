@@ -1,4 +1,4 @@
-#Calendar#
+# Calendar
 
 The standing meetings are on the last reasonable Monday of the month from 6:30 to 8:30 pm, but not in November or December.
 

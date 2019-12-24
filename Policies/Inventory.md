@@ -1,13 +1,13 @@
-#Inventory#
+# Inventory
 
-##Meeting Spaces##
+## Meeting Spaces
 * Momentum Learning
 * Rebus Works
 
-##Bank##
+## Bank
 * Fidelity Bank
 
-##Platforms/Apps##
+## Platforms/Apps
 * Meetup.com ($200 per year)
 * LinkedIn groups
 * GitHub
@@ -17,7 +17,7 @@
 * Gmail box
 * Wave
 
-##Data Sets##
+## Data Sets
 * Member list (blended from Meetup and LinkedIn )
 * Attendance urvey (provided through )
 * Book club survey
@@ -25,5 +25,5 @@
 * Ledger
 * Log
 
-##Product##
+## Product
 * Monthly Quicklist
