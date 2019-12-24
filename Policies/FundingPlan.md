@@ -33,11 +33,13 @@ We do not know how much in contributions we will receive.
 ### Expected Comitted Expenses
 Expenses will be paid, prioritized by the listing at [Inventory](Inventory.md)
 
-6 3-hr meetings at Rebusworks | $900 
-No charge expected for meetings at Momentume Learn | $0
-Meetup.com | $200
-Website | $200
-Margin | $200
+| Expense | Amount |
+|-------------------------------|-----|
+| 6x 3-hr meetings at Rebusworks | $900 |
+| Meetings at Momentume Learn | $0 |
+| Meetup.com | $200 |
+| Website | $200 |
+| Margin | $200 |
 
 ## Tickets Pay for Program Events
 Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. See [ProgramsOverview](../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
