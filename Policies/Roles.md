@@ -34,7 +34,7 @@
 * Engages an understudy for help with the webiste [ANGELA]
 
 ## The Director of Programs is responsible for Classes & Literature Review [JULIA]
-* Designs the classes program
-* Does some teaching and engages other teachers
+* Designs the classes program & book club program
+* Maintain [LiteratureReview]((../ProgramsHandbook/LiteratureReview.md) on how to get the work done.
 * Maintains [Classes]((../ProgramsHandbook/Classes.md) to document how this work gets done
-* Engages an understudy to direct book club [UNASSIGNED] and to maintain [LiteratureReview]((../ProgramsHandbook/LiteratureReview.md)
+
