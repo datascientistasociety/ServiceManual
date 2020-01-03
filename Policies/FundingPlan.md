@@ -1,6 +1,6 @@
 # Funding Plan for 2020
 
-See also LiteratureReview]((../Policies/501c3.md)
+See also [Reasons for 501(c)(3)](../Policies/501c3.md)
 
 ## Basis
 We have a concept of the budget unit, which is the standing rate for space rental for one hour. 
