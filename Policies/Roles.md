@@ -23,7 +23,8 @@
 * The secretary engages an understudy for additional LinkedIn group posts, 4-5 per year [ASHTON]
 
 ## The Treasurer is responsible for the creating and preserving 501(c)(3) status [ANNA]
-* Maintains the ledger in accordance with the [Funding Plan](../Policies/FundingPlan.md))
+* Maintains the ledger in accordance with the [Funding Plan](../Policies/FundingPlan.md)
+* Gives a monthly accounting report
 * arranges for formal legal, tax reports and filings
 * Is advised by an accountant [CHARLOTTE]
 

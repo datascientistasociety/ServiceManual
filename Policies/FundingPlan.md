@@ -20,14 +20,14 @@ The administrator approves membership.
 
 Anyone who does not pay the dues within 90 days is purged from the role.
 
-Registrants are asked to declared whether they will be AUTHENTICATED members or CONTRIBUTING, who are allies who are donating for whatever reason, but not paying annual dues. Contributors are an excellent source for Meetup dues for those who cannot afford them (i.e., out of work)
+Registrants are asked to declared whether they will be regular members or CONTRIBUTING, who are allies who are donating for whatever reason, but not paying annual dues. Contributors are an excellent source for Meetup dues for those who cannot afford them (i.e., out of work)
 
 Meetup charges a processing fee according to a schedule. 
 
 This private meetup group is configured so that transactions submitted through Meetup are transparent.
 
 ### Expected Dues
-We believe we have 300 members. At the current engagement standard, we aim for 30 authenticated members.
+We believe we have 300 members. At the current engagement standard, we aim for 30 regular members.
 30 members * $50 = $1500 
 
 We do not know how much in contributions we will receive.
@@ -46,6 +46,6 @@ Expenses will be paid, prioritized by the listing at [Inventory](Inventory.md)
 ## Tickets Pay for Program Events
 Occasionally there are ticketed events. A nominal fee helps plan for attendance, and may cover costs associated with that event. See [ProgramsOverview](../ProgramsHandbook/ProgramsOverview.md) for approved expenses. 
 
-We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for authenticated members, and one for general. 
+We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for regular members, and one for general. 
 
 The standard for membership discounts per ticket is 25%. 
