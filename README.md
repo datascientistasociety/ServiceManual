@@ -3,7 +3,7 @@
 ## Read about our [Mission, Vision, and Modus Operandi](missionvision.md)
 
 ## Programs Handbook [Overview](ProgramsHandbook/ProgramsOverview.md)
-* [Classes](ProgramsHandbook/Calendar.md)
+* [Classes](ProgramsHandbook/Classes.md)
 * [Literature Review](ProgramsHandbook/LiteratureReview.md)
 * [Referrals](ProgramsHandbook/Referrals.md)
 * [Speaker Events](ProgramsHandbook/SpeakerEvents.md)
