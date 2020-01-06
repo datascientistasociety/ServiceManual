@@ -22,7 +22,7 @@ Among introductory courses Python and SQL got most interest:
 
 
 In terms of format, most people are interested in workshop format (59%), while the rest of the people are interested in meetup format (35%). Only one person expressed interest in the book study group format, so it seems that the last format is harder for people to attend and we should probably not invest into it.
-[Image02](../ClassesFiles/20200105image06.png)
+![Image06](../ClassesFiles/20200105image06.png)
 
 
 ## Envelope ##
