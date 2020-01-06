@@ -49,3 +49,19 @@ Occasionally there are ticketed events. A nominal fee helps plan for attendance,
 We recognize that many groups are configured with a discount for members. Unfortnately, Meetup does not allow tier-priced ticketing. One work around is to create two Meetup events, one for regular members, and one for general. 
 
 The standard for membership discounts per ticket is 25%. 
+
+## Required reporting for Data Scientista Society
+
+First federal filing will be 990-N due 5/15/2021 for tax year 2020 (e-file)
+
+First North Carolina filing will be annual report due 4/15/2021 for tax year 2020
+
+Additional notes for future reference for Federal Filing Dates:
+
+Forms 990, 990-EZ and 990-N must be filed by the 15th day of the fifth month after the end of the organization’s tax year.  The form required changes based on amount of receipts.
+
+| Form | Gross Receipts Thresholds |
+|--------|---------------------------------------------------|
+| 990-N	| Gross receipts normally ≤ $50,000
+| 990-EZ | Gross receipts > $50,000 and < $200,000 
+|990 | Gross receipts ≥ $200,000 or Total assets ≥ $500,000 
