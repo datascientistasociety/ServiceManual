@@ -9,7 +9,7 @@ The name of this corporation shall be Data Scientista Society. The business of t
 # PURPOSES AND POWERS 
 ## 2.01 PURPOSE 
 * (a) The Data Scientista Society is a non-profit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code. 
-* ** (b) Mission
+* **(b) Mission
 The mission of the Data Scientista Society is to educate women pursuing careers related to data science in techniques and competencies needed for career advancement and achieving leadership positions in the field.**
 * (c) This corporation is organized to exercise any power which may be exercised and to carry out any activity which may be carried out by a nonprofit corporation under Chapter 55A of the North Carolina General Statutes. 
 * (d) The purposes for which this Corporation is organized are charitable and educational within the meaning of NCGS 55A-I-40(4) and 501(c)(3) of the Internal Revenue Code. 
