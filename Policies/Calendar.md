@@ -1,6 +1,6 @@
 # Calendar
 
-## Calendar Structure##
+## Calendar Structure
 
 The standing meetings are on the last reasonable Monday of the month from 6:30 to 8:30 pm, but not in November or December.
 
@@ -42,22 +42,22 @@ TBD by the Director of Programs as led by the indications of the Learning Survey
 
 ## 2020 Partner Events
 
-Triangle Open Data Day - [Saturday] March 7, International Open Data Day 
+* Triangle Open Data Day - [Saturday] March 7, International Open Data Day 
 
-Open Raleigh Brigade Community Nights [Tuesdays] - March 10 & 24, April 14 & 28, May 12 & 26
+* Open Raleigh Brigade Community Nights [Tuesdays] - March 10 & 24, April 14 & 28, May 12 & 26
 
-Analytics>Forward - [Saturday] March 2020 (TBD)
+* Analytics>Forward - [Saturday] March 2020 (TBD)
 
-Triangle Civic Camp - [Friday] June 5
+* Triangle Civic Camp - [Friday] June 5
 
-Data Science North Carolina Conference - August 2020 (TBD)
+* Data Science North Carolina Conference - August 2020 (TBD)
 
-NC Open Pass DataPalooza - September TBD
+* NC Open Pass DataPalooza - September TBD
 
-All Things Open [Sun, Mon, Tue] - October 18 - 20, 2020 
+* All Things Open [Sun, Mon, Tue] - October 18 - 20, 2020 
 
-Open Raleigh Brigade Community Nights [Tuesdays] - September 22, October 13 & 27, November 10
+* Open Raleigh Brigade Community Nights [Tuesdays] - September 22, October 13 & 27, November 10
 
-Women In Technology Summit (WITS) SE [Saturday] - October 29 & 30 2020
+* Women In Technology Summit (WITS) SE [Saturday] - October 29 & 30 2020
 
-Civic Tech or Civic Camp Showcase - [Thursday] November 19
+* Civic Tech or Civic Camp Showcase - [Thursday] November 19
