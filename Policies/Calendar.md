@@ -9,18 +9,18 @@ All programming should be in place one month before hand. This should be easy be
 So, After a standing meeting (0th week) in Month 0:
 
 Month 1, Week 1
-* Open the applicable survey [Feb, Apr, Jun, Aug, Oct: Bookclub survey; others, speaker survey.]
+* Open/remind the applicable survey [Feb, Apr, Jun, Aug, Oct: Bookclub survey; others, speaker survey.]
 
 Month 1, Week 2
-* Close the survey and create the meetup event [SAME AS ABOVE]
+* Close the survey and create the meetup event 
 
 Month 1, Week 3
-* Issue the Quick List [VICE PRESIDENT]
+* Issue the Quick List 
 
 Month 1, Week 4
 * Remind about meeting with attendance survey [PRESIDENT]
 
-## 2020 Proposed Regular Calendar
+## 2020 Proposed Regular Calendar for Book Club & Speakers
 | Date | Meeting Format |
 |:---------------|:--------------------------------------------------|
 | Monday, Jan 27 | Book Club |
@@ -28,12 +28,17 @@ Month 1, Week 4
 | Monday, Mar 30 | Book Club |
 | Monday, Apr 27 | Speaker |
 | Monday, May 18 | Book Club |
-| Monday, Jun 29 | Spaker |
+| Monday, Jun 29 | Speaker |
 | Monday, Jul 27 | Book Club |
 | Monday, Aug 31 | Speaker |
 | Monday, Sep 28 | Book Club |
 | Monday, Oct 26 | Annual Planning Meeting |
 
+## 2020 Calendar for QuickList 
+As implied, 1 to 2 weeks before every meeting listed above.
+
+## 2020 Calendar for Classes & Workshops
+TBD by the Director of Programs as led by the indications of the Learning Survey. (Please avoid partner events below.)
 
 ## 2020 Partner Events
 
