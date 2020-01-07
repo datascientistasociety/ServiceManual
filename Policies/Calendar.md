@@ -34,11 +34,16 @@ Month 1, Week 4
 | Monday, Sep 28 | Book Club |
 | Monday, Oct 26 | Annual Planning Meeting |
 
+## 2020 Calendar for Big Speaker Event (The Future Fair) 
+TBD by the Director of Moments
+
 ## 2020 Calendar for QuickList 
 As implied, 1 to 2 weeks before every meeting listed above.
 
 ## 2020 Calendar for Classes & Workshops
 TBD by the Director of Programs as led by the indications of the Learning Survey. (Please avoid partner events below.)
+
+
 
 ## 2020 Partner Events
 
