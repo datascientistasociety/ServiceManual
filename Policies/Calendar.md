@@ -7,7 +7,7 @@ All programming should be in place one month before hand. This should be easy be
 So, After a standing meeting (0th week) in Month 0:
 
 Month 1, Week 1
-* Open the survey [PROGRAMS OR SECRETARY, ALTERNATING]
+* Open the applicable survey [Feb, Apr, Jun, Aug, Oct: Bookclub survey; others, speaker survey.]
 
 Month 1, Week 2
 * Close the survey and create the meetup event [SAME AS ABOVE]
@@ -17,3 +17,40 @@ Month 1, Week 3
 
 Month 1, Week 4
 * Remind about meeting with attendance survey [PRESIDENT]
+
+## 2020 Proposed Regular Calendar
+| Date | Meeting Format |
+|:---------------|:--------------------------------------------------|
+| Monday, Jan 27 | Book Club |
+| Monday, Feb 24 | Speaker |
+| Monday, Mar 30 | Book Club |
+| Monday, Apr 27 | Speaker |
+| Monday, May 18 | Book Club |
+| Monday, Jun 29 | Spaker |
+| Monday, Jul 27 | Book Club |
+| Monday, Aug 31 | Speaker |
+| Monday, Sep 28 | Book Club |
+| Monday, Oct 26 | Annual Planning Meeting |
+
+
+## 2020 Partner Events
+
+Triangle Open Data Day - [Saturday] March 7, International Open Data Day 
+
+Open Raleigh Brigade Community Nights [Tuesdays] - March 10 & 24, April 14 & 28, May 12 & 26
+
+Analytics>Forward - [Saturday] March 2020 (TBD)
+
+Triangle Civic Camp - [Friday] June 5
+
+Data Science North Carolina Conference - August 2020 (TBD)
+
+NC Open Pass DataPalooza - September TBD
+
+All Things Open [Sun, Mon, Tue] - October 18 - 20, 2020 
+
+Open Raleigh Brigade Community Nights [Tuesdays] - September 22, October 13 & 27, November 10
+
+Women In Technology Summit (WITS) SE [Saturday] - October 29 & 30 2020
+
+Civic Tech or Civic Camp Showcase - [Thursday] November 19
