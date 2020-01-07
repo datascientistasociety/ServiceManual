@@ -1,5 +1,7 @@
 # Calendar
 
+## Calendar Structure##
+
 The standing meetings are on the last reasonable Monday of the month from 6:30 to 8:30 pm, but not in November or December.
 
 All programming should be in place one month before hand. This should be easy because our programs alternate.
