@@ -56,13 +56,13 @@ TBD by the Director of Programs as led by the indications of the Learning Survey
 
 * Open Raleigh Brigade Community Nights [Tuesdays] - March 10 & 24, April 14 & 28, May 12 & 26
 
-* Analytics>Forward - [Saturday] March 2020 (TBD)
+* Analytics>Forward - [Saturday] March 14, 2020 
 
-* Triangle Civic Camp - [Friday] June 5
+* Triangle Civic Camp - [Friday] June 5, 2020
 
 * Data Science North Carolina Conference - August 2020 (TBD)
 
-* NC Open Pass DataPalooza - September TBD
+* Triangle Civic Tech Lightning Talks - [Tuesday] August 25, 2020
 
 * All Things Open [Sun, Mon, Tue] - October 18 - 20, 2020 
 
@@ -70,4 +70,4 @@ TBD by the Director of Programs as led by the indications of the Learning Survey
 
 * Women In Technology Summit (WITS) SE [Saturday] - October 29 & 30 2020
 
-* Civic Tech or Civic Camp Showcase - [Thursday] November 19
+* Triangle Civic Tech Showcase - [Tuesday] November 10, 2020
