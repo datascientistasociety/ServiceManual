@@ -65,3 +65,4 @@ Forms 990, 990-EZ and 990-N must be filed by the 15th day of the fifth month aft
 | 990-N	| Gross receipts normally ≤ $50,000
 | 990-EZ | Gross receipts > $50,000 and < $200,000 
 |990 | Gross receipts ≥ $200,000 or Total assets ≥ $500,000 
+

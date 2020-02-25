@@ -21,18 +21,19 @@ Month 1, Week 4
 * Remind about meeting with attendance survey [PRESIDENT]
 
 ## 2020 Proposed Regular Calendar for Book Club & Speakers
-| Date | Meeting Format |
-|:---------------|:--------------------------------------------------|
-| Monday, Jan 27 | Book Club |
-| Monday, Feb 24 | Speaker |
-| Monday, Mar 30 | Book Club |
-| Monday, Apr 27 | Speaker |
-| Monday, May 18 | Book Club |
-| Monday, Jun 29 | Speaker |
-| Monday, Jul 27 | Book Club |
-| Monday, Aug 31 | Speaker |
-| Monday, Sep 28 | Book Club |
-| Monday, Oct 26 | Annual Planning Meeting |
+| Date | Meeting Format | Location
+|:---------------|:----------------------------|:--------------------------|
+| Monday, Jan 27 | Book Club | RebusWorks, Raleigh
+| Monday, Feb 24 | Speaker | RebusWorks, Raleigh
+| Monday, Mar 30 | Book Club | WeWork, Durham
+| Monday, Apr 27 | Social | TBD, RTP
+| Monday, May 18 | Speaker | RebusWorks, Raleigh
+| Monday, Jun 29 | Book Club | WeWork, Durham
+| Monday, Jul 27 | Reverse Book Club | RebusWorks, Raleigh
+| Monday, Aug 31 | Speaker | WeWork, Durham
+| Monday, Sep 28 | Book Club | RebusWorks, Raleigh
+| Monday, Oct 26 | Annual Planning Meeting | 
+| Monday, Nov  | Not Sure | 
 
 ## 2020 Calendar for Big Speaker Event (The Future Fair) 
 TBD by the Director of Moments
@@ -41,7 +42,11 @@ TBD by the Director of Moments
 As implied, 1 to 2 weeks before every meeting listed above.
 
 ## 2020 Calendar for Classes & Workshops
-TBD by the Director of Programs as led by the indications of the Learning Survey. (Please avoid partner events below.)
+TBD by the Director of Programs as led by the indications of the Learning Survey. 
+
+
+## Other Events
+(Please avoid partner events below.)
 
 
 
