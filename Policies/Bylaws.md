@@ -236,25 +236,29 @@ This policy shall be made available to all directors, officers, staffs or employ
 ## 13.01 AMENDMENT 
 Any amendment to the Articles of Incorporation may be adopted by approval of two-thirds (2/3) of the board of directors. 
 ## 13.02 AMENDMENT: EVENTS AND GATHERINGS 
+
 In order to ensure the continued financial health of The Data Scientista Society, events involving cash outlays will follow certain procedures. Events covered under this clause include, but are not limited to: 
 * (a) Events involving cash outlays by The Data Scientista Society, 
-(* b) Events organized by The Data Scientista Society which involve cash outlays by another party or organization, 
+* (b) Events organized by The Data Scientista Society which involve cash outlays by another party or organization, 
 * (c) Events where The Data Scientista Society fronts funds, with the expectation that the monies will be recouped later, e.g. from event sponsors, 
 * (d) Events involving pledges of payment in kind by The Data Scientista Society, its board, or its members, 
 * (e) Events where The Data Scientista Society will incur debts with an expectation of later repayment by The Data Scientista Society,
 * (f) Event where The Data Scientista Society acts in any way as a fiscal agent, 
 * (g) Events that expose The Data Scientista Society to a risk or possibility that any of the above might be necessary in the future. 
+
 The following procedure will be followed for all events meeting any of the above criteria. 
 * (a) No event as described above shall be planned, advertised or otherwise committed to without a vote by the board of directors. 
 * (b) The event shall have a designated Event Organizer, who will be responsible for details related to the event’s planning, budget, and activities. 
 * (c) Prior to the board vote, the event budget shall be reviewed and approved by the Treasurer, who will present the budget to the rest of the board. 
 * (d) Prior to the board vote, the Event Organizer shall describe, in writing, procedures for controlling and mitigating unplanned expenses. 
 * (e) The Event Organizer is required to report any changes in planned expenses to the board of directors immediately upon learning of said changes. Expenses over and above the approved budget will trigger another board vote. 
+
 At that time the board may decide to: 
 * (a) Approve additional cash outlays by The Data Scientista Society to cover new expenses. 
 * (b) Cancel the event. 
 * (c) Hold the Event Organizer financially responsible for expenses not originally approved by the board. 
 * (d) Any reasonable combination of the above. 
+
 Failure to follow these procedures will result in immediate cancellation of the event in question. The Event Organizer can be held financially responsible for any cash outlays made when an event is not authorized by the board, for failing to notify the board of expenses not originally approved, or for any unauthorized expenses.
 
 # CERTIFICATE OF ADOPTION OF BYLAWS
