@@ -1,6 +1,6 @@
 # Referrals
 
-## The QuickList
+## *The QuickList*
 
 Create the Quicklist monthly, either on Week 2 or Week 3 of every month, as suggested by [Calendar](../Policies/Calendar.md). 
 
@@ -8,13 +8,13 @@ Use first names, and use the LinkedIn profile as an underlying hyperlink for any
 
 Most of the input for the Quick List comes from the survey completed at each meeting. To create the Quick List, use any survey entries for the past two months. (Of course, if we miss a Quick List, got back for 3 months.)
 
-### Checklist of Headings ###
+### Checklist of Heading
 
-- [ ] Welcome New Faces
+### - [ ] Welcome New Faces
 
 List any one that that we met for the first time at a recent meeting
 
-- [ ] We Are So Thankful For
+### - [ ] We Are So Thankful For
 
 Thank anyone who
 * was a speaker or project presenter at the meeting, or who really led the meeting
@@ -103,7 +103,7 @@ You will need:
 - [ ] When you send the QuickList out on Month N, Week 2, the meetings for Month N and N+1 should already be listed on Meetup; you will need the hyperlinks to those meetings
 
 
-### Use previous month's code
+Use previous month's code
 - [ ] In the QuickListDrafts folder, duplicate the latest file and rename it
 - [ ] Leave in place most of it
 - [ ] Leave in place any lines with the tag <!--00-->
@@ -112,7 +112,7 @@ You will need:
 - [ ] Any new material will get the tag <!--n--->
 
 
-### Anna's Tips for Preparing the Data
+ Anna's Tips for Preparing the Data
 - [ ] Access the monthly attendance data QUICK LIST Monthly Survey Questions (Responses)
 - [ ] Get the last months results, paste into a scrap workbook, and transpose
 - [ ] Delete questions 1, 4, 5, 14, as the answers don't go into the QuickList
@@ -122,7 +122,7 @@ You will need:
 - [ ] You may not know first names; they may not be apparent from email address. So use the LinkedIn Profile.
 - [ ] Make all the changes as indicated by the latest data.
 
-### Add in upcoming meetings and other parts, like Thankful For and Programs/Need
+Add in upcoming meetings and other parts, like Thankful For and Programs/Need
  - [ ] Add in the upcoming meetings
 
 
