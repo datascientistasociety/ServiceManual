@@ -8,7 +8,7 @@ Use first names, and use the LinkedIn profile as an underlying hyperlink for any
 
 Most of the input for the Quick List comes from the survey completed at each meeting. To create the Quick List, use any survey entries for the past two months. (Of course, if we miss a Quick List, got back for 3 months.)
 
-### Checklist of Heading
+## Checklist of Headings for the QuickList
 
 ### Welcome New Faces
 
@@ -85,7 +85,7 @@ Thank you so much for creating a world full of data of the women, by the women, 
 
 
 
-
+-------------------------
 
 
 
