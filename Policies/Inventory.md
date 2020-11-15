@@ -1,11 +1,5 @@
 # Inventory
 
-## Meeting Spaces
-* Momentum Learning
-* Rebus Works
-
-## Bank
-* Fidelity Bank
 
 ## Platforms/Apps
 * Meetup.com ($200 per year) <https://www.meetup.com/DataScientistaSociety/> and <https://www.meetup.com/DataScientistaSocietyFunders/>
@@ -27,3 +21,10 @@
 
 ## Product
 * Monthly Quicklist
+
+## Meeting Spaces
+* Momentum Learning
+* Rebus Works
+
+## Bank
+* Fidelity Bank

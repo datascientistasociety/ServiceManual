@@ -12,6 +12,11 @@ Our vision is to create a world full of data of the women, by the women, and for
 The modus operandi of the Data Scientista Society is to build relationships among co-located women enthusiastic about data, a.k.a data scientistas, while also practicing mutual supportiveness towards competency, success, and leadership.
 
 
+## Past Slogans
+* Hum it until you become it (2017)
+* Data of the women, by the women, for the women (2018)
+* Four years friends forever (2019)
+
 
 #### Notes
 Markdown Cheatsheet
