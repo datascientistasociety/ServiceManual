@@ -1,6 +1,6 @@
 # Treasurer
 
-## Duties
+## Duties 2021
 - [ ] Reconciles the monthly bank statement against the bookkeeping software records.
 - [ ] Prepares financial statements when requested from the board. 
 - [ ] Completes purchases on behalf of the Data Scientista Society.
@@ -8,9 +8,7 @@
 - [ ] Deposits any funds received to the Data Scientista Society's bank account.
 - [ ] Is a named "owner" on the bank account documents
 
-
 ## Access
-
 - [ ] Wave Accounting
 Training: https://s3.amazonaws.com/wave-prod-customer-success/downloads/Wave-Fearless-Accounting-Guide.pdf
 - [ ] Bank Account

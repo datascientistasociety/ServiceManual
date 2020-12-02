@@ -1,13 +1,12 @@
 # Vice President
 
-# Duties
-- [ ] Fill the president's duties when the president is absent
-- [ ] Accompany the president to fundraising training and pitches
+## Duties 2021
+- [ ] Ensures 501c3 compliance
+- [ ] Provides financial reporting oversight, especially given 501c3 compliance
+- [ ] Is actively involved in fundraising
+- [ ] Leverages membership with the NC Center for Non-Profits
 
-
-
-
-## Previous
+# Archive/Deprecated
 
 ### 2020
  The Vice President is responsible for the Referrals program 

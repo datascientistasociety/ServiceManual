@@ -19,8 +19,7 @@ The Secretary of Moments is responsible for creating a positive experience for e
 ### Access
 - [ ] Website Admin
 
-
-## Previous
+# Archive/Deprecated
 
 ### 2020 
 The Director of Moments is responsible for brand [SHANNON]

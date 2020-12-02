@@ -1,15 +1,21 @@
 # President
 
-## Duties
-- [ ] Propose meeting dates, and make sure each meeting has a program
-- [ ] Recruit and thank speakers
-- [ ] Review financial reports each month
+## Duties 2021
+- [ ] Proposes meeting dates, and makes sure each meeting has a program. This year: recruits speakers
 - [ ] Email the board several times per month during the active part of the year, keeping the board organized, each officers responding to their duties.
-- [ ] Review financial reports each month
-- [ ] Lead two board meetings per year
-- [ ] Ensure annual reporting Is complete to maintain the 501c3 status
+- [ ] Leads two board meetings per year
 - [ ] Ensure that the organization creates leverageable data
-- [ ] Find financial support for programs
+- [ ] Finds financial support for programs; works with vice president on fund raising
+
+## Goals 2021
+- [ ] Fundraising: $2150
+- [ ] Meetings
+        Speakers 4
+        Bookclubs 4
+        Reverse Book Club 3
+        Project Presentation 3
+        Case Study 3
+
 
 ## Access
 
@@ -18,7 +24,8 @@
 - [ ] Bank Account
 
 
-## Previous
+# Archive/Deprecated
+
 
 ### 2020
 The President is reponsible for the open organization [ANNA]

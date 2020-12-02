@@ -1,5 +1,7 @@
 # Director of Programs
 
+## Duties 2021
+
 - [ ] Conduct book selection for book club, optimally through a survey
 - [ ] Lead discussion at book club
 - [ ] Keep records about books presented in Reverse Book Club
@@ -7,8 +9,7 @@
 ## Access
 - [ ] Meetup
 
-
-## Previous
+# Archive/Deprecated
 
 ### 2020
 The Director of Programs is responsible for Classes & Literature Review [JULIA]

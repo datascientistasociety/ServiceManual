@@ -1,15 +1,14 @@
 # Secretary
 
-## General Duties
+## General Duties 2021
 - [ ]Drafts and sends out monthly newsletter to the members to engage the audience, as well as to provide updates on groups status
 - [ ]Attends Data Scientista events to collect information regarding attendance and other relevant group information to include in the newsletter
-- [ ] Updates member’s attendance list to understand the groups’ involvement 
 - [ ] Create minutes for board meetings
 
 ## Access
 - [ ] Meetup
 
-## Previous
+# Archive/Deprecated
 
 ### 2020
 ## The Secretary is responsible for the Speakers program 
