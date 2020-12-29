@@ -1,6 +1,6 @@
 # Invitation To Be a Featured Speaker
 
-The Data Scientista Society is currently perusing the Member List to searching for potential speakers for 2020. The Society is home-grown, member-driven, with 300+  LinkedIn profiles of local women collected and many deep relationships at its core. In the past 4.5 years, we've launched, developed regular programming, held over 75 meetings, and become a 501c3. You can read the mission and vision [here](../missionvision.md).
+The Data Scientista Society is currently perusing the Member List to searching for potential speakers for 2021. The Society is home-grown, member-driven, with 300+  LinkedIn profiles of local women collected and many deep relationships at its core. In the past 4.5 years, we've launched, developed regular programming, held over 75 meetings, and become a 501c3. You can read the mission and vision [here](../missionvision.md).
 
 ## Topics and Formats
 The subject of your talk can be anything that demonstrates your love of data! Here are the suggested formats:
