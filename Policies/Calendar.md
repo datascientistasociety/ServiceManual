@@ -10,6 +10,7 @@ So, After a standing meeting (0th week) in Month 0:
 
 Month 1, Week 1
 * Open/remind the applicable survey [Feb, Apr, Jun, Aug, Oct: Bookclub survey; others, speaker survey.]
+* Monthly bank statement is available, so the monthly report can be made.
 
 Month 1, Week 2
 * Close the survey and create the meetup event 

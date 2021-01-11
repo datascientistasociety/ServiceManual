@@ -1,3 +1,21 @@
+# Funding Plan for 2021
+
+Top Private Companies
+* Duke
+* SAS
+* Cisco
+* IBM
+* Advance Auto Parts
+* MetLife - January Focus
+* RTI International
+* BlueCross NC
+* UNC Health
+Public Universities
+* NCSU
+* UNC
+
+
+
 # Funding Plan for 2020
 
 See also [Reasons for 501(c)(3)](../Policies/501c3.md)
