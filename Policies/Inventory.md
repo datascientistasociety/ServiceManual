@@ -27,4 +27,3 @@
 * Rebus Works
 
 ## Bank
-* Fidelity Bank

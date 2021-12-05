@@ -4,51 +4,51 @@
 
 | WeekNum | Monday | WeekType | Placeholder | Confirmed Date | 
 |:--------|:-------------|:-------------- |:-------------- |:-------------- |
-| 2 | 44564 | Week 1 | Team |  | 	
-| 3 | 44571 | Week 1 | Team |  | 	
-| 4 | 44578 | Week 2 | Code with Me |  | 	
-| 5 | 44585 | Week L-1 | Social |  | 	
-| 6 | 44592 | Week L | Speaker |  | 	
-| 7 | 44599 | Week 1 | Team |  | 	
-| 8 | 44606 | Week 2 | Kaggle Retrospective |  | 	
-| 9 | 44613 | Week L-1 | Career/Exercise |  | 	
-| 10 | 44620 | Week L | Career/Exercise |  | 	
-| 11 | 44627 | Week 1 | WIDS |  | 	
-| 12 | 44634 | Week 2 | Python Kata |  | 	
-| 13 | 44641 | Week L-1 | Speaker |  | 	
-| 14 | 44648 | Week L | Book Club |  | 	
-| 15 | 44655 | Week 1 | Team |  | 	
-| 16 | 44662 | Week 2 | GitHub |  | 	
-| 17 | 44669 | Week L-1 | Book Club |  | 	
-| 18 | 44676 | Week L | Social |  | 	
-| 19 | 44683 | Week 1 | Team |  | 	
-| 20 | 44690 | Week 2 | Code with Me |  | 	
-| 21 | 44697 | Week L-1 | Career/Exercise |  | 	
-| 22 | 44704 | Week L | Speaker |  | 	
-| 23 | 44711 | Holiday | Holiday |  | 	
-| 24 | 44718 | Week 1 | Team |  | 	
-| 25 | 44725 | Week 2 | Kaggle Retrospective |  | 	
-| 26 | 44732 | Week L-1 | Social / Lindsay Pick |  | 	
-| 27 | 44739 | Week L | Book Club |  | 	
-| 28 | 44746 | Week 1 | Team |  | 	
-| 29 | 44753 | Week 2 | Code with Me |  | 	
-| 30 | 44760 | Week L-1 | Speaker |  | 	
-| 31 | 44767 | Week L | Career/Exercise |  | 	
-| 32 | 44774 | Week 1 | Team |  | 	
-| 33 | 44781 | Week 2 | Python Kata |  | 	
-| 34 | 44788 | Odd | Big Social |  | 	
-| 35 | 44795 | Week L-1 | Book Club |  | 	
-| 36 | 44802 | Week L | Speaker |  | 	
-| 37 | 44809 | Week 1 | Team |  | 	
-| 38 | 44816 | Week 2 | Kaggle Retrospective |  | 	
-| 39 | 44823 | Week L-1 | Career/Exercise |  | 	
-| 40 | 44830 | Week L | Book /Club |  | 	
-| 41 | 44837 | Week 1 | Team |  | 	
-| 42 | 44844 | Week 2 | Code with Me |  | 	
-| 43 | 44851 | Week L-1 | Annual Planning |  | 	
-| 44 | 44858 | Week L | Annual Planning |  | 	
-| 45 | 44865 | Holiday | Holiday |  | 	
-| 46 | 44872 |  | Board |  | 	
+| 2 | 01/03/2022 | Week 1 | Team |  | 
+| 3 | 01/10/2022 | Week 1 | Team |  | 
+| 4 | 01/17/2022 | Week 2 | Code with Me |  | 
+| 5 | 01/24/2022 | Week L-1 | Social |  | 
+| 6 | 01/31/2022 | Week L | Speaker |  | 
+| 7 | 02/07/2022 | Week 1 | Team |  | 
+| 8 | 02/14/2022 | Week 2 | Kaggle Retrospective |  | 
+| 9 | 02/21/2022 | Week L-1 | Career/Exercise |  | 
+| 10 | 02/28/2022 | Week L | Career/Exercise |  | 
+| 11 | 03/07/2022 | Week 1 | WIDS |  | 
+| 12 | 03/14/2022 | Week 2 | Python Kata |  | 
+| 13 | 03/21/2022 | Week L-1 | Speaker |  | 
+| 14 | 03/28/2022 | Week L | Book Club |  | 
+| 15 | 04/04/2022 | Week 1 | Team |  | 
+| 16 | 04/11/2022 | Week 2 | GitHub |  | 
+| 17 | 04/18/2022 | Week L-1 | Book Club |  | 
+| 18 | 04/25/2022 | Week L | Social |  | 
+| 19 | 05/02/2022 | Week 1 | Team |  | 
+| 20 | 05/09/2022 | Week 2 | Code with Me |  | 
+| 21 | 05/16/2022 | Week L-1 | Career/Exercise |  | 
+| 22 | 05/23/2022 | Week L | Speaker |  | 
+| 23 | 05/30/2022 | Holiday | Holiday |  | 
+| 24 | 06/06/2022 | Week 1 | Team |  | 
+| 25 | 06/13/2022 | Week 2 | Kaggle Retrospective |  | 
+| 26 | 06/20/2022 | Week L-1 | Social / Lindsay Pick |  | 
+| 27 | 06/27/2022 | Week L | Book Club |  | 
+| 28 | 07/04/2022 | Week 1 | Team |  | 
+| 29 | 07/11/2022 | Week 2 | Code with Me |  | 
+| 30 | 07/18/2022 | Week L-1 | Speaker |  | 
+| 31 | 07/25/2022 | Week L | Career/Exercise |  | 
+| 32 | 08/01/2022 | Week 1 | Team |  | 
+| 33 | 08/08/2022 | Week 2 | Python Kata |  | 
+| 34 | 08/15/2022 | Odd | Big Social |  | 
+| 35 | 08/22/2022 | Week L-1 | Book Club |  | 
+| 36 | 08/29/2022 | Week L | Speaker |  | 
+| 37 | 09/05/2022 | Week 1 | Team |  | 
+| 38 | 09/12/2022 | Week 2 | Kaggle Retrospective |  | 
+| 39 | 09/19/2022 | Week L-1 | Career/Exercise |  | 
+| 40 | 09/26/2022 | Week L | Book /Club |  | 
+| 41 | 10/03/2022 | Week 1 | Team |  | 
+| 42 | 10/10/2022 | Week 2 | Code with Me |  | 
+| 43 | 10/17/2022 | Week L-1 | Annual Planning |  | 
+| 44 | 10/24/2022 | Week L | Annual Planning |  | 
+| 45 | 10/31/2022 | Holiday | Holiday |  | 
+| 46 | 11/07/2022 |  | Board |  | 
 
 
 
