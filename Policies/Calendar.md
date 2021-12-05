@@ -1,74 +1,68 @@
 # Calendar
 
-## Calendar Structure
+## 2022 Proposed Calendar
 
-The standing meetings are on the last reasonable Monday of the month from 6:30 to 8:30 pm, but not in November or December.
+| WeekNum | Monday | WeekType | Placeholder | Confirmed Date | 
+|:--------|:-------------|:-------------- |:-------------- |:-------------- |
+| 2 | 44564 | Week 1 | Team |  | 	
+| 3 | 44571 | Week 1 | Team |  | 	
+| 4 | 44578 | Week 2 | Code with Me |  | 	
+| 5 | 44585 | Week L-1 | Social |  | 	
+| 6 | 44592 | Week L | Speaker |  | 	
+| 7 | 44599 | Week 1 | Team |  | 	
+| 8 | 44606 | Week 2 | Kaggle Retrospective |  | 	
+| 9 | 44613 | Week L-1 | Career/Exercise |  | 	
+| 10 | 44620 | Week L | Career/Exercise |  | 	
+| 11 | 44627 | Week 1 | WIDS |  | 	
+| 12 | 44634 | Week 2 | Python Kata |  | 	
+| 13 | 44641 | Week L-1 | Speaker |  | 	
+| 14 | 44648 | Week L | Book Club |  | 	
+| 15 | 44655 | Week 1 | Team |  | 	
+| 16 | 44662 | Week 2 | GitHub |  | 	
+| 17 | 44669 | Week L-1 | Book Club |  | 	
+| 18 | 44676 | Week L | Social |  | 	
+| 19 | 44683 | Week 1 | Team |  | 	
+| 20 | 44690 | Week 2 | Code with Me |  | 	
+| 21 | 44697 | Week L-1 | Career/Exercise |  | 	
+| 22 | 44704 | Week L | Speaker |  | 	
+| 23 | 44711 | Holiday | Holiday |  | 	
+| 24 | 44718 | Week 1 | Team |  | 	
+| 25 | 44725 | Week 2 | Kaggle Retrospective |  | 	
+| 26 | 44732 | Week L-1 | Social / Lindsay Pick |  | 	
+| 27 | 44739 | Week L | Book Club |  | 	
+| 28 | 44746 | Week 1 | Team |  | 	
+| 29 | 44753 | Week 2 | Code with Me |  | 	
+| 30 | 44760 | Week L-1 | Speaker |  | 	
+| 31 | 44767 | Week L | Career/Exercise |  | 	
+| 32 | 44774 | Week 1 | Team |  | 	
+| 33 | 44781 | Week 2 | Python Kata |  | 	
+| 34 | 44788 | Odd | Big Social |  | 	
+| 35 | 44795 | Week L-1 | Book Club |  | 	
+| 36 | 44802 | Week L | Speaker |  | 	
+| 37 | 44809 | Week 1 | Team |  | 	
+| 38 | 44816 | Week 2 | Kaggle Retrospective |  | 	
+| 39 | 44823 | Week L-1 | Career/Exercise |  | 	
+| 40 | 44830 | Week L | Book /Club |  | 	
+| 41 | 44837 | Week 1 | Team |  | 	
+| 42 | 44844 | Week 2 | Code with Me |  | 	
+| 43 | 44851 | Week L-1 | Annual Planning |  | 	
+| 44 | 44858 | Week L | Annual Planning |  | 	
+| 45 | 44865 | Holiday | Holiday |  | 	
+| 46 | 44872 |  | Board |  | 	
 
-All programming should be in place one month before hand. This should be easy because our programs alternate.
-
-So, After a standing meeting (0th week) in Month 0:
-
-Month 1, Week 1
-* Open/remind the applicable survey [Feb, Apr, Jun, Aug, Oct: Bookclub survey; others, speaker survey.]
-* Monthly bank statement is available, so the monthly report can be made.
-
-Month 1, Week 2
-* Close the survey and create the meetup event 
-
-Month 1, Week 3
-* Issue the Quick List 
-
-Month 1, Week 4
-* Remind about meeting with attendance survey [PRESIDENT]
-
-## 2020 Proposed Regular Calendar for Book Club & Speakers
-| Date | Meeting Format | Location
-|:---------------|:----------------------------|:--------------------------|
-| Monday, Jan 27 | Book Club | RebusWorks, Raleigh
-| Monday, Feb 24 | Speaker | RebusWorks, Raleigh
-| Monday, Mar 30 | Book Club | WeWork, Durham
-| Monday, Apr 27 | Social | TBD, RTP
-| Monday, May 18 | Speaker | RebusWorks, Raleigh
-| Monday, Jun 29 | Book Club | WeWork, Durham
-| Monday, Jul 27 | Reverse Book Club | RebusWorks, Raleigh
-| Monday, Aug 31 | Speaker | WeWork, Durham
-| Monday, Sep 28 | Book Club | RebusWorks, Raleigh
-| Monday, Oct 26 | Annual Planning Meeting | 
-| Monday, Nov  | Not Sure | 
-
-## 2020 Calendar for Big Speaker Event (The Future Fair) 
-TBD by the Director of Moments
-
-## 2020 Calendar for QuickList 
-As implied, 1 to 2 weeks before every meeting listed above.
-
-## 2020 Calendar for Classes & Workshops
-TBD by the Director of Programs as led by the indications of the Learning Survey. 
-
-
-## Other Events
-(Please avoid partner events below.)
 
 
 
-## 2020 Partner Events
+##  Partner Events
 
-* Triangle Open Data Day - [Saturday] March 7, International Open Data Day 
+* Women In Data Science 
 
-* Open Raleigh Brigade Community Nights [Tuesdays] - March 10 & 24, April 14 & 28, May 12 & 26
-
-* Analytics>Forward - [Saturday] March 14, 2020 
-
-* Triangle Civic Camp - [Friday] June 5, 2020
+* Analytics>Forward 
 
 * Data Science North Carolina Conference - August 2020 (TBD)
 
-* Triangle Civic Tech Lightning Talks - [Tuesday] August 25, 2020
-
-* All Things Open [Sun, Mon, Tue] - October 18 - 20, 2020 
-
-* Open Raleigh Brigade Community Nights [Tuesdays] - September 22, October 13 & 27, November 10
+* Data Matters
 
 * Women In Technology Summit (WITS) SE [Saturday] - October 29 & 30 2020
 
-* Triangle Civic Tech Showcase - [Tuesday] November 10, 2020
+* All Things Open

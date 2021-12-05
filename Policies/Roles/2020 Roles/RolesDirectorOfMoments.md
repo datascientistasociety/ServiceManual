@@ -8,7 +8,7 @@ The Secretary of Moments is responsible for creating a positive experience for e
 ### Update and Maintain Website
 - [ ] Update after each meeting with “Quick List Update (name TBD) and summary of each meeting
 - [ ] Promote Future meetings and activities
-- [ ] Respond to inquiries from the website
+- [ ] Respond to inquiries from the w ebsite
 
 ### Event Management
 - [ ] Help come up with idea for annual event to bring diverse groups of women together 

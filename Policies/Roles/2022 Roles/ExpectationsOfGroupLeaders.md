@@ -1,0 +1,16 @@
+# Expectations of Group Leaders
+- Execute the mission and vision and exemplify the value and modus operandi.
+- Commit to a number of meetings per year as is comfortable for you (exact schedule can be determined later)
+- Use Meetup. Our goal is for you to have your own Meetup group. We will figure out funding. 
+- Plan the agenda for each meeting, but draw on provided resources.
+    - We may have speakers for you already
+    - We can execute surveys for book club.
+    - We can change the newsletter to meet your communication needs.
+    - We’d like to accumulate and swap structured meeting ideas.
+- Mutually cooperate with the rest of the organization, aiming for alignment.
+- Lead the Update Exercise at every networking meeting (in other words, it’s not necessary at technical meetings)
+- Track attendance on the Meetup platform.
+- Encourage all participants to contribute the requested data. 
+    - Monthly survey request
+    - Annual or special survey request
+- Don’t get burnt out. 
