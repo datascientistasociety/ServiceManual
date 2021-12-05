@@ -1,5 +1,12 @@
 # Calendar
 
+- 1st week to be reserved for projects, such as Survey and Newsletter
+- 2nd week to be rerserved for technical program
+- Odd week, if available, to be reserved for Board meetings or Large Social
+- Next-to-Last Week, often 3rd, to be reserved for Online Group
+- Last Week, often 4th, to be reserved for Local Group, often in-person.
+- Anyone is welcome at any meeting.
+
 ## 2022 Proposed Calendar
 
 | WeekNum | Monday | WeekType | Placeholder | Confirmed Date | 
