@@ -2,7 +2,7 @@
 
 # ARTICLE I 
 # NAME 
-## 2.01 PURPOSE1.01 NAME 
+## 1.01 NAME 
 The name of this corporation shall be Data Scientista Society. The business of the corporation may be conducted as the Data Scientista Society. 
 
 # ARTICLE II 
@@ -41,7 +41,7 @@ All corporate powers shall be exercised by or under the authority of the board a
 * (b) Director terms shall be staggered so that approximately half the number of directors will end their terms in any given year. 
 * (c) Directors may serve terms in succession. 
 * (d) The term of office shall be considered to begin December 1 and end November 30 of the second year in office, unless the term is extended until such time as a successor has been elected. 
-v4.04 QUALIFICATIONS AND ELECTION OF DIRECTORS 
+## 4.04 QUALIFICATIONS AND ELECTION OF DIRECTORS 
 In order to be eligible to serve as a director on the board of directors, the individual must be 18 years of age and an affiliate within affiliate classifications created by the board of directors. Directors may be elected at any board meeting by the majority vote of the existing board of directors. The election of directors to replace those who have fulfilled their term of office shall take place in November of each year. 
 ## 4.05 VACANCIES 
 The board of directors may fill vacancies due to the expiration of a director’s term of office, resignation, death, or removal of a director or may appoint new directors to fill a previously unfilled board position, subject to the maximum number of directors under these Bylaws. 
