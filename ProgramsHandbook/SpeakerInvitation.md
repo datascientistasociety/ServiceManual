@@ -28,3 +28,7 @@ Given the current circumstances, all meetings are currently held online through 
 
 ## Helpful Things
 It's helpful to submit a casual bio (e.g., do you love dogs? cats? ) and a casual abstract ("Ever wonder...") and a photo of yourself two months ahead of the meeting.
+
+## Code of Ethics
+
+All speakers for the Data Scientista Society are asked to abide by the Code of Conduct. By agreeing to speak at the Data Scientista Society event, they agree to:
