@@ -3,19 +3,19 @@
 The Data Scientista Society is seeking volunteer speakers, both for online and local meetings. 
 
 ## Refer to Mission and Vision
-All talks should support [mission and vision] (../missionvision.md) of the Data Scientista Society.
+All talks should support [mission and vision](../missionvision.md) of the Data Scientista Society.
 
 ## Code of Ethics
 
 All speakers for the Data Scientista Society are asked to abide by the Code of Conduct. By agreeing to speak at the Data Scientista Society event, they agree to hole the following values:
 
-### Integrity
+#### Integrity
 We believe the best way to build trust between a Data Scientista and her company, a Data Scientista and her manager, and a Data Scientista and her customers, is through honesty and integrity. We believe in presenting the true picture to our employers and stakeholders and reporting errors as soon as possible, so that everyone would know that if a Data Scientista says something, it can be believed.
 
-### Growth Mindset
+#### Growth Mindset
 We believe the best way to be the best version of our professional selves in data science is to always be curious about new algorithms, new methods, and new tools. We believe that learning never stops; and if you decide to become a Data Scientista, the first thing you can do is to embrace the fact that you will always be learning new things.
 
-### Best Practices
+#### Best Practices
 We believe the best way to do what we are doing has probably already been invented and is known to the community. This is why the community develops “lessons learned” which it calls “best practices”. We believe that following best practices in data science, software engineering, and security will make our code, our designs, and our models the best they can be.
 
 ## Schedule 
@@ -47,3 +47,5 @@ Particularly for local meetings, we encourage a tone of
 * Friendly, nurturing, neighborly
 * Educational
 
+## Recording
+It is at the speaker's discretion if the talk is recorded and posted on the [YouTube channel](https://www.youtube.com/channel/UC8DkxiQ-VRNcq1xtoNqXNsQ). It is up to the organizers to post to the channel. 
