@@ -1,4 +1,4 @@
-# Invitation To Be a Featured Speaker
+# Featured Speaker Invitation and Code of Ethics
 
 The Data Scientista Society is seeking volunteer speakers, both for online and local meetings. 
 
